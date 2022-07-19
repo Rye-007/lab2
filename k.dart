@@ -13,7 +13,7 @@ int main() {
     stdout.write("Enter Your Choice(1-5): ");
     choice = int.parse(stdin.readLineSync()!);
     if (choice! >= 1 && choice <= 4) {
-      stdout.write("\nEnter any two Numbers:");
+      stdout.write("\nEnter any two hee kuy:");
       numOne = double.parse(stdin.readLineSync()!);
       stdout.write("\nEnter any two Numbers:");
       numTwo = double.parse(stdin.readLineSync()!);
